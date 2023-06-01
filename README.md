@@ -24,20 +24,9 @@ The generated visualizations showcase the distribution of car preferences by reg
 
 Based on the analysis, targeted recommendations are provided for sales teams and marketers. These recommendations highlight customer demographic profiles for each car and computer brand, assisting in tailoring sales approaches and optimizing marketing activities.
 
-## Usage
-
-1. Clone the repository: `git clone https://github.com/yourusername/market-analysis.git`
-2. Navigate to the `code` directory: `cd code`
-3. Execute the code files in a Jupyter Notebook or preferred Python environment.
-4. Explore the generated visualizations in the `results` directory.
-
 ## Contributing
 
 Contributions to this market analysis project are welcome. Feel free to open issues for bug fixes or new feature suggestions. Pull requests are also appreciated.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
